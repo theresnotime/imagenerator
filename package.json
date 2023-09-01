@@ -21,7 +21,7 @@
     "react-dom": "18.2.0",
     "react-dropzone": "^14.2.3",
     "react-icons": "^4.10.1",
-    "react-image-crop": "^10.0.9"
+    "react-image-crop": "^10.1.8"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.40.1",
